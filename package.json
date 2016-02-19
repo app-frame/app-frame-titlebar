@@ -1,0 +1,29 @@
+{
+  "name": "app-frame-titlebar",
+  "version": "0.0.2",
+  "description": "App Frame Titlebar Component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/app-frame/app-frame-titlebar.git"
+  },
+  "keywords": [
+    "app-frame",
+    "app-frame-titlebar"
+  ],
+  "author": "Adipat Larprattanakul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/app-frame/app-frame-titlebar/issues"
+  },
+  "scripts": {
+    "predeploy": "npm install",
+    "deploy": "grunt"
+  },
+  "homepage": "https://github.com/app-frame/app-frame-titlebar#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "^0.7.0",
+    "grunt-cli": "^0.1.13",
+    "load-grunt-tasks": "^3.4.0"
+  }
+}

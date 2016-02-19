@@ -1,0 +1,27 @@
+{
+  "name": "app-frame-titlebar",
+  "version": "0.0.2",
+  "homepage": "https://github.com/app-frame/app-frame-titlebar",
+  "authors": [
+    "Adipat Larprattanakul <adipat.larprattanakul@thomsonreuters.com>"
+  ],
+  "description": "Polymer Titlebar element for using with Application Frame",
+  "main": "app-frame-titlebar.html",
+  "keywords": [
+    "app-frame",
+    "app-frame-titlebar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0"
+  }
+}
